@@ -78,7 +78,7 @@ These instructions will get you a copy of the project up and running on your loc
     python Real-Time-Drowsiness-Detection-System.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm Alert.wav
     ```
 
-## Alogorithm
+## Algorithm
 
 1. Capture the image of the driver from the camera.
 2. Send the captured image to haarcascade file for face detection.
